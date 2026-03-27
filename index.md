@@ -1,4 +1,4 @@
-# iOS Engineering Exercise — Brief
+# iOS Pair Programming Exercise — Brief
 
 Welcome! This document explains what to expect from your technical interview session. Take a few minutes to read through it — we want you to feel prepared and relaxed on the day.
 

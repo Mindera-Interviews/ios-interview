@@ -11,12 +11,10 @@ The goal is to see how you approach practical engineering problems: how you read
 
 ## Format
 
-| | |
-|---|---|
-| **Duration** | Up to 2 hours |
-| **Style** | Pair programming (you drive) |
-| **Environment** | Your own Mac, your own Xcode |
-| **Language** | Swift |
+**Duration**: Up to 2 hours
+**Style**: Pair programming (you drive)
+**Environment**: Your own Mac, your own Xcode
+**Language**: Swift
 
 ## Before the Session
 

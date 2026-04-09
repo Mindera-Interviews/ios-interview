@@ -18,7 +18,7 @@ The goal is to see how you approach practical engineering problems: how you read
 
 ## Before the Session
 
-1. Approximately 10 minutes before the interview, you'll be sent a link to download the project as a zip file
+1. Approximately 10 minutes before the interview, you will recieve an email with the project as a zip file (±20kb in size). 
 2. Unzip the project to a location on your machine
 3. Make sure it runs and compiles (it should)
 4. Have a quick read of the README.md file 
